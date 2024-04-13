@@ -1,7 +1,7 @@
 # WINCONSOLE_BasicTetris
 Simple windows console-based tetris game
 
-Simple Tetris game running on windows console. several system functions in WIN API32 were utilized.
+Simple Tetris game runs on windows console. several system functions in WIN API32 were utilized.
 
 This demo is built using Microsoft Visual Studio 2017 community version on Windows 10 home.
 
